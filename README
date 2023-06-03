@@ -1,0 +1,7 @@
+/* README for ptr11c4
+*    Ptr11c4 is an example program from Kochan, Stephen, "Programming in C
+*  3rd ed."
+*    The program introduces the concept of pointers to structures.
+*  (*date).year is reviewed, then date->year is used.
+*
+*/
