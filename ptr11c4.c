@@ -21,7 +21,7 @@ int main(void) {
     datePtr->day = 25;
     datePtr->year = 2004;
 
-    printf("Today's date is %i/%i/%.2i .\n",
+    printf("Today's date is %i/%i/%.2i.\n",
             datePtr->month, datePtr->day, datePtr->year % 100);
 
     return(0);
